@@ -1,16 +1,16 @@
-# gomjw-renametohash
+# renametohash
 
 
 ## Install
 
 ```console
-go get -u github.com/gomjw/gomjw-renametohash
+go get -u github.com/gomjw/renametohash
 ```
 
 ## Usage
 
 ```console
-gomjw-renametohash -help
+renametohash -help
 ```
 
 
